@@ -1,0 +1,6 @@
+setup.py
+scikit_build.egg-info/PKG-INFO
+scikit_build.egg-info/SOURCES.txt
+scikit_build.egg-info/dependency_links.txt
+scikit_build.egg-info/requires.txt
+scikit_build.egg-info/top_level.txt

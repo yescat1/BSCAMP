@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bscamp111",
+  "private_key_id": "fa4127c41d2699a2e08237d234cde9634821a8c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCv8ppobQD2pPpY\nR4v9fo+nKdWwDkqzN3beSdMigrsnIfCFsTl0mhaTs/erXFAI1E4nxqNwqKNRRrkh\np9OaSHAukd+ZgoNyWI/VoQ5SVqy+kc2eFWJ74qMUVRAN/bzdcEeFMSK19Fk+g8Ri\n6lLjNRmMc19tf2DYQzcnXX8VYjz7LHFA7hJEKDcIGH41p/FYko2i88Ueg/UkjYMl\nLpMTifmTtZrpTh0VMO/3gbbde2Ds+Ago6hyJN861KD+NPsJkayASgEST7zGdTfbb\njflbFl+xu0fihbVhv7Le8atGmvYmqPKQ9gmMz8sX0H1uBGeeQQvfV+uQA1w4g2Um\n4G+lcHmrAgMBAAECggEAI+kgGrAkwjJp5hq0N8jdCQFA2+4O0QVA/Z2Tujd0e0gy\nDxdc4q+QbBUPN6pfq22phfTE5vmEW9JTdssKJTMjsl2ThYFd0rjAopl8ktGd8EdR\n8DHtJ9vZ7QxvemuPYKLJ9iVRMFHu5RN/wbCRuk3cKQ5jK7YTzg/p8d7jUTn7uEfC\n+Xe8E9U6zukV9zA2ZJRAldBUxOysC0kVJVygtx3BTmiTf5MrbBxxQkTgk36+xJX8\n5RNz0TkXzlB/jqORjx1RBNv9vFFeFm7e7xDdVEjLXPM+i1SdW/6delBLgmtcJrSD\nQRRQh2SvurYZZr2n94z9aFjiFwadPfmhn62hB7Z8AQKBgQDkJOYjFAkEtMhGoQE8\nF8+iYBPN+j04vdi8Hok6a+SfM8xrxuZ9Xf4im6FbaycTC4hJ1i7T1CV1mH0VA92H\nBE0y2TUn74CjzDia7t97cv4OMlmrTpelcOX1ul2HcCAbScAIN2RrknNbPq8fNEKl\nzy6yDCoaKlKfSy5c2nFbuU+QQwKBgQDFbjMBVvyepesSN3EqcY2JsMpT02gYa9BU\nOSNkhpp5YFWMroal2pHH3yCb5hfvgEYRtaJPWsu+oqJTli5lRrjfGJXHqQrVUqw5\nDhA+ugt2vxoK2CgT6PdCyklPk0lGToE48QC+hPqdyu7DVrZzn4NATnccbEK5KiNu\ntEG+Yn3ueQKBgQDL2yzIq15jliZe9f7kc2JU9QS9SJzr1reTYLW+PipLFz3SEChk\nXVh4FBhaV6TSn7toProZDbdrHJan8IxB2NYiWXPl+1w3AIST7F5FMLtSdCsrp05Z\nxke1CpIIM2h8+aldriFM/c+V+K0CdPAYuMhA0B3Ow4KQU91Zmtcv3qX5gQKBgQCj\nVoSEOz9M0eAldhD+GGwM2mLJ70FT0v7Mb2lEpcfvWy/r8Agd9zJctdD4qehrkShn\nRmo+VNPzqAG8PaesylHw4Rop0UTRMFCj82qlOq55U6lsB2FA96B5dXoph6U7sX9f\naKRA+yuMmHPo0Diqd/HSphgNP9QD9UTTNfaeWEXvoQKBgQCJJ/pK7b/qSwWIJC+E\nv3MYyDJWjjNfTlCsXVoH3i05AvkHnt5iHeAc88K2j6T5GwPiehg/S9iUwtWr41m9\nZc9OJri86lyhCasX1VdlhWMh0mQMVhvrxqZ3t/S7FGqWlCy7VC3xrXqQFMgIPt3V\ne6rzCLMnOg+S5hxuiwoyb9Hu1g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bairreddy@bscamp111.iam.gserviceaccount.com",
+  "client_id": "115923645893176688465",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bairreddy%40bscamp111.iam.gserviceaccount.com"
+}
